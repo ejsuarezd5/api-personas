@@ -3,12 +3,12 @@
 1. [Objetivo](#objetivo)
 2. [Reglas del negocio](#regla)
 
-<a name="objetivo"/>
+<a name="objetivo"></a>
 ## **Objetivo**
 
 Desarrollar 4 endpoints con las funciones CRUD básicas sobre la cartera de datos de personas.
 
-<a name="regla"/>
+<a name="regla"></a>
 ## **Reglas del negocio**
 
 - Utilizar el estándar APIRest con JSON como formato de intercambio de datos.

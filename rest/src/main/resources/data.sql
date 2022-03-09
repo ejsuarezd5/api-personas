@@ -1,0 +1,1 @@
+INSERT INTO TBL_PERSONA (id, name) VALUES (1, 'Eduardo Suárez');

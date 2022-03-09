@@ -1,4 +1,4 @@
-package es.cmc.rest.exception;
+package es.cmc.rest.infraestructure.exception;
 
 public class PersonaException extends Exception 
 {

@@ -1,4 +1,4 @@
-package es.cmc.rest.model;
+package es.cmc.rest.domain.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

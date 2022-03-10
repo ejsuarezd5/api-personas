@@ -33,6 +33,7 @@ Se emplearon las siguientes tecnologías o herramientas:
 - H2 Database
 - Spring Data JPA (Persistencia)
 - Spring web (RESTful)
+- Apache Maven 3.8.4 (mvn)
 - TestMace Version: 1.3.3 (Test api rest)
 
 <a name="diccionario"></a>

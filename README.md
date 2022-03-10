@@ -60,7 +60,7 @@ Objetivo: retorna un mensaje, permite verificar si está funcionando el api (tip
 ```
 Tipo: POST
 Path: http://localhost:8080/api/create_personas
-Body: {"name":"Carolina Medina"}
+Body: {"name":"Javier Chaves"}
 Objetivo: crear una persona en la base de datos.
 ```
 
